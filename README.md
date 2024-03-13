@@ -7,15 +7,15 @@
 
 Steampipe is the zero-ETL solution for getting data directly from APIs and services. We offer these Steampipe engines:
 
-- Steampipe CLI. Use the Steampipe core engine to translate APIs to tables in the Postgres instance that's bundled with Steampipe.
+**Steampipe CLI**. Use the Steampipe core engine to translate APIs to tables in the Postgres instance that's bundled with Steampipe.
 
-- Steampipe Postgres FDWs. Use [native Postgres Foreign Data Wrappers](https://steampipe.io/docs/steampipe_postgres/overview) to translate APIs to foreign tables.
+**Steampipe Postgres FDWs**. Use [native Postgres Foreign Data Wrappers](https://steampipe.io/docs/steampipe_postgres/overview) to translate APIs to foreign tables.
 
-- Steampipe SQLite extensions. Use [SQLite extensions](https://steampipe.io/docs/steampipe_sqlite/overview) to translate APIS to SQLite virtual tables.
+**Steampipe SQLite extensions**. Use [SQLite extensions](https://steampipe.io/docs/steampipe_sqlite/overview) to translate APIS to SQLite virtual tables.
 
-- Steampipe export tools. Use [standalone binaries](https://steampipe.io/docs/steampipe_export/overview) that export data from APIs, no database required.
+**Steampipe export tools**. Use [standalone binaries](https://steampipe.io/docs/steampipe_export/overview) that export data from APIs, no database required.
 
-- Turbot Pipes. Use [Turbot Pipes](https://turbot.com/pipes) to run Steampipe in the cloud.
+**Turbot Pipes**. Use [Turbot Pipes](https://turbot.com/pipes) to run Steampipe in the cloud.
 
 ## Steampipe API plugins
 
