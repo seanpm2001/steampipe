@@ -79,7 +79,7 @@ This repository is published under the [AGPL 3.0](https://www.gnu.org/licenses/a
 
 ## Turbot Pipes
 
-Want a hosted version of Steampipe? Bring your team to [Turbot Pipes](https://pipes.turbot.com?utm_id=gspreadme&utm_source=github&utm_medium=repo&utm_campaign=github&utm_content=readme).
+ Bring your team to [Turbot Pipes](https://pipes.turbot.com?utm_id=gspreadme&utm_source=github&utm_medium=repo&utm_campaign=github&utm_content=readme) to use Steampipe together in the cloud.
 
 ## Get involved
 
