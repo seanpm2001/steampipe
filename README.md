@@ -19,11 +19,6 @@ We offer these Steampipe engines:
 
 **Turbot Pipes**. Use [Turbot Pipes](https://turbot.com/pipes) to run Steampipe in the cloud.
 
-## Steampipe API plugins
-
-The Steampipe community has grown a suite of [plugins](https://hub.powerpipe.io/plugins?utm_id=gspreadme&utm_source=github&utm_medium=repo&utm_campaign=github&utm_content=readme) that map APIs to database tables. They work with all Steampipe engines.
-
-
 ## Install Steampipe
 
  The <a href="https://steampipe.io/downloads?utm_id=gspreadme&utm_source=github&utm_medium=repo&utm_campaign=github&utm_content=readme">downloads</a> page shows you how but tl;dr:
@@ -46,6 +41,11 @@ Now, [install a plugin and run your first query →](https://steampipe.io/docs)
 ## select * from cloud;
 
 See our [documentation](https://steampipe.io/docs) for examples of how to use Steampipe with the [AWS plugin](https://hub.steampipe.io/plugins/turbot/aws) to query AWS.
+
+## Steampipe API plugins
+
+The Steampipe community has grown a suite of [plugins](https://hub.powerpipe.io/plugins?utm_id=gspreadme&utm_source=github&utm_medium=repo&utm_campaign=github&utm_content=readme) that map APIs to database tables. They work with all Steampipe engines.
+
 
 ## Developing
 
