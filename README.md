@@ -41,7 +41,7 @@ brew install steampipe
 
 ## select * from cloud;
 
-See our [https://steampipe.io/docs](documentation) for examples of how to use Steampipe with the [AWS plugin](https://hub.steampipe.io/plugins/turbot/aws) to query AWS.
+See our [documentation](https://steampipe.io/docs) for examples of how to use Steampipe with the [AWS plugin](https://hub.steampipe.io/plugins/turbot/aws) to query AWS.
 ```
 
 ## Developing
