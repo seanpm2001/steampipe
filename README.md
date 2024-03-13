@@ -45,31 +45,46 @@ See our [documentation](https://steampipe.io/docs) for examples of how to use St
 
 ## Developing
 
-Prerequisites:
+<details>
+ <summary>Prerequisites.</summary>
+ - [Golang](https://golang.org/doc/install) Version 1.19 or higher.
+</details>
 
-- [Golang](https://golang.org/doc/install) Version 1.19 or higher.
 
-Clone the repo.
-
-```sh
+<details>
+ <summary>Clone the repo.</summary>
+ 
+```
 git clone https://github.com/turbot/steampipe
-cd steampipe
 ```
+</details>
 
-Build, which automatically installs the new version to your `/usr/local/bin/steampipe` directory:
+<details>
+ <summary>Build.</summary>
+ 
+ ```
+ cd steampipe
+ make
+ ```
 
-```
-make
-```
+The build installs the new version to your `/usr/local/bin/steampipe` directory:
+</details>
 
-Check the version.
-
-```
+<details>
+ <summary>
+  Check the version.
+ </summary>
+ 
+ ```
 $ steampipe -v
 steampipe version 0.21.1
 ```
+</details>
 
-Install a plugin and run a query as per above.
+<details>
+ <summary>Run a query.</summary>
+ Install a plugin and run a query as per above.
+</details>
 
 ## Open source & contributing
 
