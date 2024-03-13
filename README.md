@@ -5,7 +5,9 @@
 [![maintained by](https://img.shields.io/badge/maintained%20by-Turbot-blue)](https://turbot.com?utm_id=gspreadme&utm_source=github&utm_medium=repo&utm_campaign=github&utm_content=readme)
 
 
-Steampipe is the zero-ETL solution for getting data directly from APIs and services. We offer these Steampipe engines:
+[Steampipe](https://steampipe.io) is the zero-ETL solution for getting data directly from APIs and services. 
+
+We offer these Steampipe engines:
 
 **Steampipe CLI**. Use the Steampipe core engine to translate APIs to tables in the Postgres instance that's bundled with Steampipe.
 
