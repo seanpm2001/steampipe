@@ -39,27 +39,9 @@ brew tap turbot/tap
 brew install steampipe
 ```
 
-## Install a plugin
+## select * from cloud;
 
- Choose a plugin from the [hub](https://hub.powerpipe.io?utm_id=gspreadme&utm_source=github&utm_medium=repo&utm_campaign=github&utm_content=readme), for example: [Hacker News](https://hub.powerpipe.io/plugins/turbot/hackernews?utm_id=gspreadme&utm_source=github&utm_medium=repo&utm_campaign=github&utm_content=readme).
-
- Run the `steampipe plugin` command to install it.
-
-```sh
-steampipe plugin install hackernews
-```
-
-## Query with a plugin
-
-Run a query using `psql` — or another Postgres client , or [Powerpipe](https://powerpipe.io) — to query a table provided by the installed plugin.
-
-
-```
-psql -h localhost -p 9193 -d steampipe -U steampipe
-```
-
-```
-steampipe=> select * from hackernews_new limit 10
+See our [https://steampipe.io/docs](documentation) for examples of how to use Steampipe with the [AWS plugin](https://hub.steampipe.io/plugins/turbot/aws) to query AWS.
 ```
 
 ## Developing
