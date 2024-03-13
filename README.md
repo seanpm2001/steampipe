@@ -5,7 +5,7 @@
 [![maintained by](https://img.shields.io/badge/maintained%20by-Turbot-blue)](https://turbot.com?utm_id=gspreadme&utm_source=github&utm_medium=repo&utm_campaign=github&utm_content=readme)
 
 
-[Steampipe](https://steampipe.io) is **the zero-ETL way** to query APIs and services. 
+[Steampipe](https://steampipe.io) is **the zero-ETL way** to query APIs and services. Use it to expose data sources to SQL.
 
 We offer these Steampipe engines:
 
