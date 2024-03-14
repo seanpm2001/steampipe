@@ -19,6 +19,10 @@ We offer these Steampipe engines:
 
 **Turbot Pipes**. Use [Turbot Pipes](https://turbot.com/pipes) to run Steampipe in the cloud.
 
+## Demo time!
+
+![](https://steampipe.io/images/steampipe-sql-demo.gif)
+
 ## Install Steampipe
 
  The <a href="https://steampipe.io/downloads?utm_id=gspreadme&utm_source=github&utm_medium=repo&utm_campaign=github&utm_content=readme">downloads</a> page shows you how but tl;dr:
