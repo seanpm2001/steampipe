@@ -9,7 +9,7 @@
 
 We offer these Steampipe engines:
 
-**Steampipe CLI**. Use the [Steampipe core engine](https://steampipe.io/docs/query/overview) to translate APIs to tables in the Postgres instance that's bundled with Steampipe.
+**Steampipe CLI**. Run [queries](https://steampipe.io/docs/query/overview) that translate APIs to tables in the Postgres instance that's bundled with Steampipe.
 
 **Steampipe Postgres FDWs**. Use [native Postgres Foreign Data Wrappers](https://steampipe.io/docs/steampipe_postgres/overview) to translate APIs to foreign tables.
 
