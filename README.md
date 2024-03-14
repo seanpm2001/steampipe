@@ -7,7 +7,7 @@
 
 [Steampipe](https://steampipe.io) is **the zero-ETL way** to query APIs and services. Use it to expose data sources to SQL.
 
-We offer these Steampipe engines:
+We offer these Steampipe distributions:
 
 **Steampipe CLI**. Run [queries](https://steampipe.io/docs/query/overview) that translate APIs to tables in the Postgres instance that's bundled with Steampipe.
 
