@@ -70,7 +70,7 @@ git clone https://github.com/turbot/steampipe
  make
  ```
 
-The build installs the new version to your `/usr/local/bin/steampipe` directory:
+The build installs the new version to your `/usr/local/bin/` directory:
 </details>
 
 <details>
@@ -86,7 +86,7 @@ steampipe version 0.21.1
 
 <details>
  <summary>Run a query.</summary>
- Install a plugin and run a query as per above.
+  Now [install a plugin and run your first query →](https://steampipe.io/docs).
 </details>
 
 ## Open source & contributing
