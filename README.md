@@ -49,7 +49,65 @@ The Steampipe community has grown a suite of [plugins](https://hub.powerpipe.io/
 There are more than 2000 tables in all, each clearly documented with copy/paste/run examples.
 
 ## Developing
+ <details>
+ <summary>Prerequisites.</summary>
 
+- [Golang](https://golang.org/doc/install) Version 1.19 or higher.
+</details>
+
+<details>
+<summary>Clone.</summary>
+
+```sh
+git clone git@github.com:turbot/steampipe
+cd steampipe
+```
+</details>
+<details>
+<summary>Build.</summary>
+
+Build, which automatically installs the new version to your `/usr/local/bin/steampipe` directory:
+
+```
+make
+```
+</details>
+
+<details>
+<summary>Check the version.</summary>
+
+```
+$ steampipe -v
+steampipe version 0.22.0
+```
+</details>
+
+<details>
+<summary>Install a plugin.</summary>
+
+```
+$ steampipe plugin install steampipe
+```
+</details>
+
+<details>
+<summary>Run your first query.</summary>
+ 
+Try it!
+
+```
+steampipe query
+> .inspect steampipe
++-----------------------------------+-----------------------------------+
+| TABLE                             | DESCRIPTION                       |
++-----------------------------------+-----------------------------------+
+| steampipe_registry_plugin         | Steampipe Registry Plugins        |
+| steampipe_registry_plugin_version | Steampipe Registry Plugin Version |
++-----------------------------------+-----------------------------------+
+
+> select * from steampipe_registry_plugin;
+```
+</details>
 
 
 ## Open source and contributing
