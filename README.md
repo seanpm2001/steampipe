@@ -50,47 +50,7 @@ There are more than 2000 tables in all, each clearly documented with copy/paste/
 
 ## Developing
 
-<details>
- <summary>Prerequisites.</summary>
- - [Golang](https://golang.org/doc/install) Version 1.19 or higher.
-</details>
 
-
-<details>
- <summary>Clone the repo.</summary>
- 
-```
-git clone https://github.com/turbot/steampipe
-```
-</details>
-
-<details>
- <summary>Build.</summary>
- 
- ```
- cd steampipe
- make
- ```
-
-The build installs the new version to your `/usr/local/bin/` directory:
-</details>
-
-<details>
- <summary>
-  Check the version.
- </summary>
- 
- ```
-$ steampipe -v
-steampipe version 0.21.1
-```
-</details>
-
-<details>
- <summary>Run a query.</summary>
- 
-  Now [install a plugin and run your first query →](https://steampipe.io/docs).
-</details>
 
 ## Open source and contributing
 
