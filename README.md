@@ -86,6 +86,7 @@ steampipe version 0.21.1
 
 <details>
  <summary>Run a query.</summary>
+ 
   Now [install a plugin and run your first query →](https://steampipe.io/docs).
 </details>
 
