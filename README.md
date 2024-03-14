@@ -90,7 +90,7 @@ steampipe version 0.21.1
   Now [install a plugin and run your first query →](https://steampipe.io/docs).
 </details>
 
-## Open source & contributing
+## Open source and contributing
 
 This repository is published under the [AGPL 3.0](https://www.gnu.org/licenses/agpl-3.0.html) license. Please see our [code of conduct](https://github.com/turbot/.github/blob/main/CODE_OF_CONDUCT.md). Contributors must sign our [Contributor License Agreement](https://turbot.com/open-source#cla) as part of their first pull request. We look forward to collaborating with you!
 
