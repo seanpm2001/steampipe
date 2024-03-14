@@ -44,7 +44,7 @@ Now, [install a plugin and run your first query →](https://steampipe.io/docs)
 
 ## Steampipe API plugins
 
-The Steampipe community has grown a suite of [plugins](https://hub.powerpipe.io/plugins?utm_id=gspreadme&utm_source=github&utm_medium=repo&utm_campaign=github&utm_content=readme) that map APIs to database tables. There are plugins for [public clouds](https://hub.steampipe.io/?categories=public+cloud),  [security](https://hub.steampipe.io/?categories=security), [software development](https://hub.steampipe.io/?categories=software+development), [internet services](https://hub.steampipe.io/?categories=internet), and more. They work with all Steampipe engines.
+The Steampipe community has grown a suite of [plugins](https://hub.powerpipe.io/plugins?utm_id=gspreadme&utm_source=github&utm_medium=repo&utm_campaign=github&utm_content=readme) that map APIs to database tables. There are plugins for [public clouds](https://hub.steampipe.io/?categories=public+cloud),  [security](https://hub.steampipe.io/?categories=security), [software development](https://hub.steampipe.io/?categories=software+development), [internet services](https://hub.steampipe.io/?categories=internet), and more. They work with all Steampipe distributions.
 
 ## Developing
 
