@@ -1,8 +1,8 @@
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://steampipe.io/images/steampipe-color-logo-and-wordmark-with-white-bubble.svg"><source media="(prefers-color-scheme: light)" srcset="https://steampipe.io/images/steampipe-color-logo-and-wordmark-with-white-bubble.svg"><img width="67%" alt="Steampipe Logo" src="https://steampipe.io/images/steampipe-color-logo-and-wordmark-with-white-bubble.svg"></picture>](https://steampipe.io?utm_id=gspreadme&utm_source=github&utm_medium=repo&utm_campaign=github&utm_content=readme)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://steampipe.io/images/steampipe-color-logo-and-wordmark-with-white-bubble.svg"><source media="(prefers-color-scheme: light)" srcset="https://steampipe.io/images/steampipe-color-logo-and-wordmark-with-white-bubble.svg"><img width="67%" alt="Steampipe Logo" src="https://steampipe.io/images/steampipe-color-logo-and-wordmark-with-white-bubble.svg"></picture>](https://steampipe.io)
 
-[![plugins](https://img.shields.io/badge/apis_supported-140-blue)](https://hub.powerpipe.io/plugins?utm_id=gspreadme&utm_source=github&utm_medium=repo&utm_campaign=github&utm_content=readme) &nbsp; 
-[![slack](https://img.shields.io/badge/slack-2297-blue)](https://turbot.com/community/join?utm_id=gspreadme&utm_source=github&utm_medium=repo&utm_campaign=github&utm_content=readme) &nbsp;
-[![maintained by](https://img.shields.io/badge/maintained%20by-Turbot-blue)](https://turbot.com?utm_id=gspreadme&utm_source=github&utm_medium=repo&utm_campaign=github&utm_content=readme)
+[![plugins](https://img.shields.io/badge/apis_supported-140-blue)](https://hub.powerpipe.io/plugins) &nbsp; 
+[![slack](https://img.shields.io/badge/slack-2297-blue)](https://turbot.com/community/join) &nbsp;
+[![maintained by](https://img.shields.io/badge/maintained%20by-Turbot-blue)](https://turbot.com)
 
 
 [Steampipe](https://steampipe.io) is **the zero-ETL way** to query APIs and services. Use it to expose data sources to SQL.
@@ -25,7 +25,7 @@ We offer these Steampipe distributions:
 
 ## Install Steampipe
 
- The <a href="https://steampipe.io/downloads?utm_id=gspreadme&utm_source=github&utm_medium=repo&utm_campaign=github&utm_content=readme">downloads</a> page shows you how but tl;dr:
+ The <a href="https://steampipe.io/downloads">downloads</a> page shows you how but tl;dr:
  
 Linux or WSL
 
@@ -44,7 +44,7 @@ Now, [install a plugin and run your first query →](https://steampipe.io/docs)
 
 ## Steampipe plugins
 
-The Steampipe community has grown a suite of [plugins](https://hub.powerpipe.io/plugins?utm_id=gspreadme&utm_source=github&utm_medium=repo&utm_campaign=github&utm_content=readme) that map APIs to database tables. Plugins are available for [AWS](https://hub.steampipe.io/plugins/turbot/aws), [Azure](https://hub.steampipe.io/plugins/turbot/azure), [GCP](https://hub.steampipe.io/plugins/turbot/gcp), [Kubernetes](https://hub.steampipe.io/plugins/turbot/kubernetes), [GitHub](https://hub.steampipe.io/plugins/turbot/github), [Microsoft 365](https://hub.steampipe.io/plugins/turbot/microsoft365), [Salesforce](https://hub.steampipe.io/plugins/turbot/salesforce), and many more.
+The Steampipe community has grown a suite of [plugins](https://hub.powerpipe.io/plugins) that map APIs to database tables. Plugins are available for [AWS](https://hub.steampipe.io/plugins/turbot/aws), [Azure](https://hub.steampipe.io/plugins/turbot/azure), [GCP](https://hub.steampipe.io/plugins/turbot/gcp), [Kubernetes](https://hub.steampipe.io/plugins/turbot/kubernetes), [GitHub](https://hub.steampipe.io/plugins/turbot/github), [Microsoft 365](https://hub.steampipe.io/plugins/turbot/microsoft365), [Salesforce](https://hub.steampipe.io/plugins/turbot/salesforce), and many more.
 
 There are more than 2000 tables in all, each clearly documented with copy/paste/run examples.
 
@@ -118,7 +118,7 @@ steampipe query
 
 ## Turbot Pipes
 
- Bring your team to [Turbot Pipes](https://turbot.com/pipes?utm_id=gspreadme&utm_source=github&utm_medium=repo&utm_campaign=github&utm_content=readme) to use Steampipe together in the cloud.
+ Bring your team to [Turbot Pipes](https://turbot.com/pipes) to use Steampipe together in the cloud.
 
 ## Get involved
 
