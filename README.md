@@ -21,6 +21,16 @@
 
 <img alt="steampipe demo" width=500 src="https://steampipe.io/images/steampipe-sql-demo.gif" >
 
+## Documentation
+
+See the [documentation](https://steampipe.io/docs) for:
+
+- [Running queries](https://steampipe.io/docs/query/overview)
+- [Managing Steampipe](https://steampipe.io/docs/managing/overview)
+- [CLI commands](https://steampipe.io/docs/reference/cli/overview)
+- [Integrations](https://steampipe.io/docs/integrations/overview)
+- [Developing plugins](https://steampipe.io/docs/develop/overview)
+
 ## Install Steampipe
 
  The <a href="https://steampipe.io/downloads">downloads</a> page shows you how but tl;dr:
