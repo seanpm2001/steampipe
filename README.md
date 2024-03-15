@@ -50,6 +50,8 @@ There are more than 2000 tables in all, each clearly documented with copy/paste/
 
 ## Developing
 
+If you want to help develop the core Steampipe binary, these are the steps to build it.
+
 <details>
 <summary>Clone</summary>
 
@@ -73,7 +75,7 @@ The Steampipe binary lands in `/usr/local/bin/steampipe` directory unless you sp
 <summary>Check the version</summary>
 
 ```
-$ steampipe -v
+$ steampipe --version
 steampipe version 0.22.0
 ```
 </details>
@@ -104,6 +106,8 @@ steampipe query
 > select * from steampipe_registry_plugin;
 ```
 </details>
+
+If you're interested in developing Steampipe plugins, see our [documentation for plugin developers](https://steampipe.io/docs/develop/overview).
 
 ## Turbot Pipes
 
