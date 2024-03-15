@@ -21,7 +21,7 @@ We offer these Steampipe distributions:
 
 ## Demo time!
 
-<img width=500 src="https://steampipe.io/images/steampipe-sql-demo.gif" >
+<img alt="steampipe demo" width=500 src="https://steampipe.io/images/steampipe-sql-demo.gif" >
 
 ## Install Steampipe
 
