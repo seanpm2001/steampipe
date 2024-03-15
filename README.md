@@ -38,7 +38,7 @@ There are more than 2000 tables in all, each clearly documented with copy/paste/
 
 ## Steampipe distributions
 
-Plugins are available in these ways.
+Plugins are available in these distributions.
 
 **Steampipe CLI**. Run [queries](https://steampipe.io/docs/query/overview) that translate APIs to tables in the Postgres instance that's bundled with Steampipe.
 
