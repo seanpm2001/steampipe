@@ -50,13 +50,13 @@ There are more than 2000 tables in all, each clearly documented with copy/paste/
 
 ## Developing
  <details>
- <summary>Prerequisites.</summary>
+ <summary>Prerequisites</summary>
 
 - [Golang](https://golang.org/doc/install) Version 1.19 or higher.
 </details>
 
 <details>
-<summary>Clone.</summary>
+<summary>Clone</summary>
 
 ```sh
 git clone git@github.com:turbot/steampipe
@@ -64,7 +64,7 @@ cd steampipe
 ```
 </details>
 <details>
-<summary>Build.</summary>
+<summary>Build</summary>
 
 Build, which automatically installs the new version to your `/usr/local/bin/steampipe` directory:
 
@@ -74,7 +74,7 @@ make
 </details>
 
 <details>
-<summary>Check the version.</summary>
+<summary>Check the version</summary>
 
 ```
 $ steampipe -v
@@ -83,7 +83,7 @@ steampipe version 0.22.0
 </details>
 
 <details>
-<summary>Install a plugin.</summary>
+<summary>Install a plugin</summary>
 
 ```
 $ steampipe plugin install steampipe
@@ -91,7 +91,7 @@ $ steampipe plugin install steampipe
 </details>
 
 <details>
-<summary>Run your first query.</summary>
+<summary>Run your first query</summary>
  
 Try it!
 
