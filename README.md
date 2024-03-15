@@ -7,18 +7,6 @@
 
 [Steampipe](https://steampipe.io) is **the zero-ETL way** to query APIs and services. Use it to expose data sources to SQL.
 
-We offer these Steampipe distributions:
-
-**Steampipe CLI**. Run [queries](https://steampipe.io/docs/query/overview) that translate APIs to tables in the Postgres instance that's bundled with Steampipe.
-
-**Steampipe Postgres FDWs**. Use [native Postgres Foreign Data Wrappers](https://steampipe.io/docs/steampipe_postgres/overview) to translate APIs to foreign tables.
-
-**Steampipe SQLite extensions**. Use [SQLite extensions](https://steampipe.io/docs/steampipe_sqlite/overview) to translate APIS to SQLite virtual tables.
-
-**Steampipe export tools**. Use [standalone binaries](https://steampipe.io/docs/steampipe_export/overview) that export data from APIs, no database required.
-
-**Turbot Pipes**. Use [Turbot Pipes](https://turbot.com/pipes) to run Steampipe in the cloud.
-
 ## Demo time!
 
 <img alt="steampipe demo" width=500 src="https://steampipe.io/images/steampipe-sql-demo.gif" >
@@ -47,6 +35,20 @@ Now, [install a plugin and run your first query →](https://steampipe.io/docs)
 The Steampipe community has grown a suite of [plugins](https://hub.powerpipe.io/plugins) that map APIs to database tables. Plugins are available for [AWS](https://hub.steampipe.io/plugins/turbot/aws), [Azure](https://hub.steampipe.io/plugins/turbot/azure), [GCP](https://hub.steampipe.io/plugins/turbot/gcp), [Kubernetes](https://hub.steampipe.io/plugins/turbot/kubernetes), [GitHub](https://hub.steampipe.io/plugins/turbot/github), [Microsoft 365](https://hub.steampipe.io/plugins/turbot/microsoft365), [Salesforce](https://hub.steampipe.io/plugins/turbot/salesforce), and many more.
 
 There are more than 2000 tables in all, each clearly documented with copy/paste/run examples.
+
+## Steampipe distributions
+
+Plugins are available in these ways.
+
+**Steampipe CLI**. Run [queries](https://steampipe.io/docs/query/overview) that translate APIs to tables in the Postgres instance that's bundled with Steampipe.
+
+**Steampipe Postgres FDWs**. Use [native Postgres Foreign Data Wrappers](https://steampipe.io/docs/steampipe_postgres/overview) to translate APIs to foreign tables.
+
+**Steampipe SQLite extensions**. Use [SQLite extensions](https://steampipe.io/docs/steampipe_sqlite/overview) to translate APIS to SQLite virtual tables.
+
+**Steampipe export tools**. Use [standalone binaries](https://steampipe.io/docs/steampipe_export/overview) that export data from APIs, no database required.
+
+**Turbot Pipes**. Use [Turbot Pipes](https://turbot.com/pipes) to run Steampipe in the cloud.
 
 ## Developing
 
