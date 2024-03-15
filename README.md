@@ -107,7 +107,7 @@ steampipe query
 ```
 </details>
 
-If you're interested in developing Steampipe plugins, see our [documentation for plugin developers](https://steampipe.io/docs/develop/overview).
+If you're interested in developing [Steampipe plugins](https://hub.steampipe.io), see our [documentation for plugin developers](https://steampipe.io/docs/develop/overview).
 
 ## Turbot Pipes
 
