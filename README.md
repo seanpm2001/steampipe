@@ -49,28 +49,24 @@ The Steampipe community has grown a suite of [plugins](https://hub.powerpipe.io/
 There are more than 2000 tables in all, each clearly documented with copy/paste/run examples.
 
 ## Developing
- <details>
- <summary>Prerequisites</summary>
-
-- [Golang](https://golang.org/doc/install) Version 1.19 or higher.
-</details>
 
 <details>
 <summary>Clone</summary>
 
 ```sh
 git clone git@github.com:turbot/steampipe
-cd steampipe
 ```
 </details>
+
 <details>
 <summary>Build</summary>
 
-Build, which automatically installs the new version to your `/usr/local/bin/steampipe` directory:
-
 ```
+cd steampipe
 make
 ```
+
+The Steampipe binary lands in `/usr/local/bin/steampipe` directory unless you specify an alternate `OUTPUT_DIR`.
 </details>
 
 <details>
