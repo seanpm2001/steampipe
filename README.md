@@ -7,6 +7,16 @@
 
 [Steampipe](https://steampipe.io) is **the zero-ETL way** to query APIs and services. Use it to expose data sources to SQL.
 
+**SQL**. It's been the data access standard for decades.
+
+**Live data**. Query APIs in real-time.
+
+**Speed**. Query APIs faster than you ever thought possible.
+
+**Concurrency**. Query many data sources in parallel.
+
+**Single binary**. Use it locally, deploy it in CI/CD pipelines.
+
 ## Demo time!
 
 <img alt="steampipe demo" width=500 src="https://steampipe.io/images/steampipe-sql-demo.gif" >
